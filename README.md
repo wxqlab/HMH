@@ -1,4 +1,4 @@
-# Unsupervised Similarity Search via Hierarchical Manifold Hashing
+# Unsupervised Similarity Search via Hierarchical Manifold Hashing (TKDE 2021)
 The code of our paper "Unsupervised Similarity Search via Hierarchical Manifold Hashing".
 
 ## Overview
