@@ -1,5 +1,5 @@
 # Unsupervised Similarity Search via Hierarchical Manifold Hashing (TKDE 2022)
-The code of our paper "Unsupervised Similarity Search via Hierarchical Manifold Hashing".
+There is the official implementation of our paper "Unsupervised Similarity Search via Hierarchical Manifold Hashing".
 
 ## Overview
 ![](https://github.com/Xiaoqin-Wang/HMH/blob/master/framework.png)
